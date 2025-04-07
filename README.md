@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Sergi
 
-<!--
-**Getsu05/Getsu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 I’m currently studying Software Development in STUCOM.
 
-Here are some ideas to get you started:
+🧑‍💻 Working as a Junior Developer at Capgemini.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 💻 Technologies & Tools
+| 🖥️ Technologies | 📊 Database Technologies | 🔧 Productivity & Collab | 
+|:----------------:|:------------------------:|:-----------------------:|
+| [![Frontend & Backend Technologies](https://skillicons.dev/icons?i=js,html,css,php,java)](https://github.com/Getsu05) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://github.com/Getsu05) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/Getsu05) | [![Productivity & Collaboration Platforms](https://skillicons.dev/icons?i=figma)](https://github.com/Getsu05) |
+
+## 📫 How to reach me
+
+- Email: [scortacansmartin@gmail.com](mailto:scortacansmartin@gmail.com)
+- LinkedIn: [Sergi Cortacans](https://www.linkedin.com/in/sergi-cortacans-9632452aa/)
