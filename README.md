@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sergi
 
-👨‍🎓 I’m currently studying Software Development in STUCOM.
+👨‍🎓 I’m currently studying Applied Data Science Engineering in Uoc.
 
-🧑‍💻 Working as a Junior Developer at Capgemini.
+🧑‍💻 Looking for job opportunities.
 
 
 ## 💻 Technologies & Tools
